@@ -4,7 +4,7 @@
 Este projeto é um **mini site de links**, desenvolvido para centralizar os principais contatos e informações da clínica em um único lugar.  
 O site é simples, responsivo e pode ser acessado em dispositivos móveis e desktops.
 
----
+--- 
 
 ## Funcionalidades
 
